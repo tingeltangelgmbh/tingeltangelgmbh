@@ -9,7 +9,7 @@ const luisa = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   general: {
       contact: {
-          js: ["Discord - Luisaa#5065", "E-Mail luisa@mail.wxrfel.de"],
+          ways: ["Discord - Luisaa#5065", "E-Mail luisa@mail.wxrfel.de"],
       },
       languages: {
           nativeLanguage: "German",
