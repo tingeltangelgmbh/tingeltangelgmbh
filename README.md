@@ -2,6 +2,7 @@
 
 ```javascript
 const luisa = {
+  age: "17",
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
